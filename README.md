@@ -1,5 +1,5 @@
 # react-gh-pages
-## This project is testing the deployment to git hub pages
+## How to deploy an react app to GitHub Pages
 
 1. **Create an project**
 ```bash
